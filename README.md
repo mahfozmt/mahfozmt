@@ -26,7 +26,9 @@ Full-stack .NET and Angular developer in Dhaka, Bangladesh, with 6 years of expe
 
 ## Certifications
 
-- Microsoft Certified Professional (MCP): passed Exam 70-486, Developing ASP.NET MVC Web Applications (score 933)
+<a href="https://www.credly.com/badges/5edb0686-f2eb-4737-a95d-3039670edd7a"><img src="https://images.credly.com/images/cbab3216-025d-4601-86ee-c5970b348d48/Developing_ASP.NET_MVC_Web_Applications-01.png" width="96" alt="Microsoft Exam 486 passed badge"></a>
+
+- Microsoft Certified Professional (MCP): passed Exam 70-486, Developing ASP.NET MVC Web Applications (score 933). [Verify on Credly](https://www.credly.com/badges/5edb0686-f2eb-4737-a95d-3039670edd7a)
 - Full Stack ASP.NET Core, PencilBox Training Institute (96 hours)
 
 ## Connect
