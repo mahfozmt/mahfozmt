@@ -1,6 +1,6 @@
 # Mahfozur Rahman
 
-Full-stack .NET developer in Dhaka, Bangladesh, with 6 years of experience building and supporting production software for clients in the US and Bangladesh. I started on .NET Framework, ADO.NET and T-SQL stored procedures, and now build multi-tenant SaaS with .NET 8, Angular and Microsoft Azure. I use AI coding agents (Claude Code, Google Antigravity) every day, and I plan, review and test every change myself.
+Full-stack .NET and Angular developer in Dhaka, Bangladesh, with 6 years of experience building and supporting production software for clients in the US and Bangladesh. I started on .NET Framework, ADO.NET and T-SQL stored procedures, and now build multi-tenant SaaS with .NET 8, Angular and Microsoft Azure. I use AI coding agents (Claude Code, Google Antigravity) every day, and I plan, review and test every change myself.
 
 ## What I work on
 
