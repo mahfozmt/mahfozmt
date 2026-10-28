@@ -1,21 +1,23 @@
 # Mahfozur Rahman
 
-Full-Stack Software Developer (.NET and Angular) based in Dhaka, Bangladesh, with 6 years of experience building enterprise SaaS and business applications. I turn complex business requirements into clean, maintainable, performance-optimized software.
+Full-stack .NET developer in Dhaka, Bangladesh, with 6 years of experience building and supporting production software for clients in the US and Bangladesh. I started on .NET Framework, ADO.NET and T-SQL stored procedures, and now build multi-tenant SaaS with .NET 8, Angular and Microsoft Azure. I use AI coding agents (Claude Code, Google Antigravity) every day, and I plan, review and test every change myself.
 
 ## What I work on
 
-- **BizTRAQ** at COBAIT ([biztraq.com](https://biztraq.com)): a multi-tenant cloud business information platform on Microsoft Azure for US businesses in healthcare (HIPAA), fuel distribution and case management. I build document management, workflows and approvals, e-signatures, role-based access, audit trails, two-factor authentication and a .NET 8 document-processing service, shipped through GitHub Actions CI/CD.
-- **LivingHub** ([livinghub.tech](https://www.livinghub.tech)): a building utility management SaaS. I architected its .NET 6 CQRS back end with PostgreSQL, EF Core and Hangfire, deployed it with Docker and Nginx on Linux, and published its Flutter Android app on Google Play.
-- **Earlier at Global Software Architects:** the AutoGuard GPS vehicle tracking system ([autoguardtracking.com](https://www.autoguardtracking.com)) and an enterprise event management suite for Strictly FX, USA ([strictlyfx.com](https://www.strictlyfx.com)).
+- **BizTRAQ** at COBAIT ([biztraq.com](https://biztraq.com)): a multi-tenant platform on Microsoft Azure that manages documents, records and workflows for US businesses in healthcare (HIPAA), fuel distribution and case management. I built two-factor authentication, secure file access, the .NET 8 document-processing service with GitHub Actions CI/CD, and the LLM-powered AI Document Chat.
+- **LivingHub** ([livinghub.tech](https://www.livinghub.tech)): a building utility-management SaaS. I architected its .NET 6 CQRS back end on PostgreSQL and EF Core, automated jobs with Hangfire, deployed it with Docker and Nginx on Linux, and published its Flutter Android app on Google Play.
+- **Where I started, at Global Software Architects:** the reporting back end of the AutoGuard GPS vehicle tracking system ([autoguardtracking.com](https://www.autoguardtracking.com)) on .NET Framework Web API and ADO.NET, with its report logic in T-SQL stored procedures, plus ASP.NET MVC and Web Forms modules for Strictly FX, USA ([strictlyfx.com](https://www.strictlyfx.com)) and a Windows Forms desktop app.
 
 ## Tech stack
 
 | Area | Tools |
 |---|---|
-| Back end | C#, .NET 8, ASP.NET Core, ASP.NET Web API, Entity Framework Core, Hangfire, CQRS |
-| Front end | Angular, TypeScript, Angular Material, Kendo UI, SlickGrid |
-| Databases | Microsoft SQL Server, PostgreSQL |
+| Languages | C#, T-SQL, TypeScript, JavaScript |
+| .NET | ASP.NET Core, .NET 8, ASP.NET Web API, Entity Framework Core, LINQ, Hangfire, .NET Framework, ASP.NET MVC, Web Forms, Windows Forms, WPF, ADO.NET |
+| Front end | Angular, RxJS, Angular Material, Kendo UI, SlickGrid |
+| Databases | Microsoft SQL Server (stored procedures, query tuning), PostgreSQL |
 | Cloud and DevOps | Azure App Service, Azure Blob Storage, GitHub Actions, Docker, Nginx, Linux, IIS |
+| AI-assisted development | Claude Code, Google Antigravity, LLM API integration |
 | Mobile | Flutter, Xamarin |
 
 ## Open source
