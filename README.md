@@ -26,7 +26,7 @@ Full-stack .NET developer in Dhaka, Bangladesh, with 6 years of experience build
 
 ## Certifications
 
-- Microsoft Certified Solutions Developer (MCSD), Exam 70-486: Developing ASP.NET MVC Web Applications
+- Microsoft Certified Professional (MCP): passed Exam 70-486, Developing ASP.NET MVC Web Applications (score 933)
 - Full Stack ASP.NET Core, PencilBox Training Institute (96 hours)
 
 ## Connect
