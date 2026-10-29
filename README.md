@@ -4,7 +4,7 @@ Full-stack .NET and Angular developer in Dhaka, Bangladesh, with 6 years of expe
 
 ## What I work on
 
-- **BizTRAQ** at COBAIT ([biztraq.com](https://biztraq.com)): a multi-tenant platform on Microsoft Azure that manages documents, records and workflows for US businesses in healthcare (HIPAA), fuel distribution and case management. I built two-factor authentication, secure file access, the .NET 8 document-processing service with GitHub Actions CI/CD, and the LLM-powered AI Document Chat.
+- **BizTRAQ** at COBAIT ([biztraq.com](https://biztraq.com)): a multi-tenant platform on Microsoft Azure that manages documents, records and workflows for US businesses in healthcare (HIPAA), fuel distribution and case management. I built two-factor authentication, the .NET 8 Blazor document service (deployed with GitHub Actions and Azure OpenID Connect), BizDRIVE document features (versioning, permission-aware editing, DOCX redlining with real-time presence), server-side record grids, and the LLM-powered AI Document Chat.
 - **LivingHub** ([livinghub.tech](https://www.livinghub.tech)): a building utility-management SaaS. I architected its .NET 6 CQRS back end on PostgreSQL and EF Core, automated jobs with Hangfire, deployed it with Docker and Nginx on Linux, and published its Flutter Android app on Google Play.
 - **Where I started, at Global Software Architects:** the reporting back end of the AutoGuard GPS vehicle tracking system ([autoguardtracking.com](https://www.autoguardtracking.com)) on .NET Framework Web API and ADO.NET, with its report logic in T-SQL stored procedures, plus ASP.NET MVC and Web Forms modules for Strictly FX, USA ([strictlyfx.com](https://www.strictlyfx.com)) and a Windows Forms desktop app.
 
@@ -13,16 +13,17 @@ Full-stack .NET and Angular developer in Dhaka, Bangladesh, with 6 years of expe
 | Area | Tools |
 |---|---|
 | Languages | C#, T-SQL, TypeScript, JavaScript |
-| .NET | ASP.NET Core, .NET 8, ASP.NET Web API, Entity Framework Core, LINQ, Hangfire, .NET Framework, ASP.NET MVC, Web Forms, Windows Forms, WPF, ADO.NET |
+| .NET | ASP.NET Core, .NET 8, ASP.NET Web API, Entity Framework Core, LINQ, Blazor, SignalR, Hangfire, .NET Framework, ASP.NET MVC, Web Forms, Windows Forms, WPF, ADO.NET |
 | Front end | Angular, RxJS, Angular Material, Kendo UI, SlickGrid |
-| Databases | Microsoft SQL Server (stored procedures, query tuning), PostgreSQL |
+| Databases | Microsoft SQL Server (stored procedures, query tuning), PostgreSQL, Crystal Reports, RDLC |
 | Cloud and DevOps | Azure App Service, Azure Blob Storage, GitHub Actions, Docker, Nginx, Linux, IIS |
 | AI-assisted development | Claude Code, Google Antigravity, LLM API integration |
-| Mobile | Flutter, Xamarin |
+| Mobile | Flutter (WebView app) |
 
 ## Open source
 
 - [BabyKeyBoardSmashByMahfoz](https://github.com/mahfozmt/BabyKeyBoardSmashByMahfoz): a fullscreen, toddler-proof Bangla keyboard-smash learning game for Windows, built with .NET 8 and WPF, with an installer and CI.
+- [DoctorAppointmentAPI](https://github.com/mahfozmt/DoctorAppointmentAPI): doctor directories, chamber slots and patient bookings, built with an ASP.NET Core Web API and an Angular client.
 
 ## Certifications
 
