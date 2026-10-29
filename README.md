@@ -5,7 +5,7 @@ Full-stack .NET and Angular developer in Dhaka, Bangladesh, with 6 years of expe
 ## What I work on
 
 - **BizTRAQ** at COBAIT ([biztraq.com](https://biztraq.com)): a multi-tenant platform on Microsoft Azure that manages documents, records and workflows for US businesses in healthcare (HIPAA), fuel distribution and case management. I built two-factor authentication, the .NET 8 Blazor document service (deployed with GitHub Actions and Azure OpenID Connect), BizDRIVE document features (versioning, permission-aware editing, DOCX redlining with real-time presence), server-side record grids, and the LLM-powered AI Document Chat.
-- **LivingHub** ([livinghub.tech](https://www.livinghub.tech)): a building utility-management SaaS. I architected its .NET 6 CQRS back end on PostgreSQL and EF Core, automated jobs with Hangfire, deployed it with Docker and Nginx on Linux, and published its Flutter Android app on Google Play.
+- **LivingHub** ([livinghub.tech](https://www.livinghub.tech)): a building utility-management SaaS. I co-built its .NET 6 CQRS back end with a small team on PostgreSQL and EF Core, automated jobs with Hangfire, deployed it with Docker and Nginx on Linux, and published its Flutter WebView app on Google Play.
 - **Where I started, at Global Software Architects:** the reporting back end of the AutoGuard GPS vehicle tracking system ([autoguardtracking.com](https://www.autoguardtracking.com)) on .NET Framework Web API and ADO.NET, with its report logic in T-SQL stored procedures, plus ASP.NET MVC and Web Forms modules for Strictly FX, USA ([strictlyfx.com](https://www.strictlyfx.com)) and a Windows Forms desktop app.
 
 ## Tech stack
