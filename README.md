@@ -23,6 +23,7 @@ Full-stack .NET and Angular developer in Dhaka, Bangladesh, with 6 years of expe
 ## Open source
 
 - [BabyKeyBoardSmashByMahfoz](https://github.com/mahfozmt/BabyKeyBoardSmashByMahfoz): a fullscreen, toddler-proof Bangla keyboard-smash learning game for Windows, built with .NET 8 and WPF, with an installer and CI.
+- [mahfozmt.github.io](https://github.com/mahfozmt/mahfozmt.github.io): this portfolio, built with Angular 21 (standalone components, signals), 64 unit tests, and GitHub Actions deployment to GitHub Pages.
 - [DoctorAppointmentAPI](https://github.com/mahfozmt/DoctorAppointmentAPI): doctor directories, chamber slots and patient bookings, built with an ASP.NET Core Web API and an Angular client.
 
 ## Certifications
